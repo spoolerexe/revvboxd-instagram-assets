@@ -24,11 +24,11 @@ All 18:30 Europe/Rome; provisional dates must be shifted if already past.
 - Keep all 12 posts as drafts until linked accounts and media have been checked.
 - Each carousel uses exactly five files: post_XX_slide_01.png through post_XX_slide_05.png in ascending order.
 - Raw image URLs are https://raw.githubusercontent.com/spoolerexe/revvboxd-instagram-assets/main/post_XX_slide_YY.png, valid **only after** the PNGs have been uploaded.
-- A single Metricool CSV row targets Instagram/Facebook/Threads. Facebook may display the images as an album rather than an Instagram-style carousel.
+- For **Free** Metricool use the Instagram-only CSV first. The Instagram/Facebook/Threads CSV is a draft reference only: publishing to all three would exceed the Free quota in December. Facebook may display five images as an album rather than an Instagram-style carousel.
 - Threads text must be <=500 characters. For X the separate copy is <=280 characters and up to 4 images; Metricool's X connection needs a paid plan and add-on, so do not select X on the zero-cost CSV.
 - Sunday Instagram polls are separate Stories, created in-app when interactive stickers are required.
 - Before importing the CSV, confirm all three accounts are connected to Metricool brand revvboxd, and no planned date is in the past.
 - Build Log claims require checking actual changes in the REVVD GitHub code before publication.
-- Check the free-plan posting quota for the combined networks before activating scheduling.
+- **Confirmed Free quota: 20 published posts per calendar month; the same post published to multiple networks counts separately per network.** December has 9 campaign posts, so 9 × 3 = 27 publications across Instagram, Facebook, Threads, more than 20. Use Metricool only for Instagram, and publish Facebook/Threads natively without a Metricool paid plan (or allocate at most 20 total cross-network publications).
 
 Official docs: https://help.metricool.com/it/come-programmare-post-in-blocco-con-un-file-csv-in-metricool-3zwxj and https://help.metricool.com/it/accesso-a-x-twitter-in-metricool-2bt66
